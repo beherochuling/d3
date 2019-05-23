@@ -14,3 +14,6 @@ http://www.pianshen.com/article/678149125/
 https://www.cnblogs.com/yongheng20/category/752986.html
 
 https://wenku.baidu.com/view/f0dd71af6394dd88d0d233d4b14e852458fb3902.html
+
+
+https://github.com/search?l=JavaScript&q=stars%3A%3E50000&type=Repositories
